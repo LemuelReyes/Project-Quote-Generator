@@ -1,0 +1,25 @@
+{
+  "name": "quote-generator",
+  "version": "1.0.0",
+  "description": "quote generator project from FCC",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LemuelReyes/Project-Quote-Generator.git"
+  },
+  "keywords": [
+    "quote",
+    "generator"
+  ],
+  "author": "Lemuel Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LemuelReyes/Project-Quote-Generator/issues"
+  },
+  "homepage": "https://github.com/LemuelReyes/Project-Quote-Generator#readme"
+}
